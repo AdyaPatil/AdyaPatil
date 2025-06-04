@@ -1,6 +1,6 @@
 # Hi {coders}! 👋, I am Adinath Patil 🧑‍💻
 
-![coder](./coding-freak.png)
+![coder](./coding-freak.gif)
 
 ## 🚀 About Me
 
