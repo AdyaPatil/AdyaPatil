@@ -1,8 +1,7 @@
 # Hi {coders}! 👋, I am Adinath Patil 🧑‍💻
 
-![coder]<img src="coding-freak.webp" width="300" alt="coder animation">
+![coder](./coding-freak.gif)
 
-(./coding-freak.gif)
 
 ---
 
