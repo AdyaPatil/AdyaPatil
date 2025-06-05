@@ -76,7 +76,7 @@ A quick learner, great team player, and always excited to explore new tools in c
 
 <p>
   <a href="https://www.linkedin.com/in/adinath-patil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="file:///D:/Adinath%20Documents/Adinath_Patil_9112142634.pdf" target="_blank"><img src="https://img.shields.io/badge/Download-Resume-grey?style=for-the-badge"/></a>
+  <a href="https://drive.google.com/file/d/1jvU7Jt5_2yIidy6Tb55q6Oa-HbXDYFbJ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Download-Resume-grey?style=for-the-badge"/></a>
   <a href="https://www.instagram.com/_crack_adya_2634/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://medium.com/@adinathpatil2634" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
