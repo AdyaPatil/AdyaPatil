@@ -32,8 +32,8 @@ A quick learner, great team player, and always excited to explore new tools in c
 ## 🛠 Technical Tools
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/> -->
@@ -75,10 +75,10 @@ A quick learner, great team player, and always excited to explore new tools in c
 ## 🤝 Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://your-resume-link.com" target="_blank"><img src="https://img.shields.io/badge/Download-Resume-grey?style=for-the-badge"/></a>
-  <a href="https://instagram.com/your-profile" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://medium.com/@your-profile" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adinath-patil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="file:///D:/Adinath%20Documents/Adinath_Patil_9112142634.pdf" target="_blank"><img src="https://img.shields.io/badge/Download-Resume-grey?style=for-the-badge"/></a>
+  <a href="https://www.instagram.com/_crack_adya_2634/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://medium.com/@adinathpatil2634" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
