@@ -61,8 +61,7 @@ A quick learner, great team player, and always excited to explore new tools in c
 | 📰 Title | 🗓 Date | 📄 Snippet |
 |---------|--------|-----------|
 | **[ArgoCD vs Traditional CI/CD: The Future of Kubernetes Deployment](https://medium.com/@adinathpatil2634/argocd-vs-traditional-ci-cd-the-future-of-kubernetes-deployment-0f0fcded722f)** | *13 Feb 2025*|
-| **[Deep Dive In K-Means Clustering](#)** | *19 Jul 2021, 14:38* | As we all know it is one of the most commonly used unsupervi... |
-| **[Javascript more than just a language](#)** | *25 Jun 2021, 08:10* | Why JS is not only used for UI but also for backend, testing... |
+| **[Step-by-Step Installing Consul on Kubernetes Using Helm](https://medium.com/@adinathpatil2634/step-by-step-installing-consul-on-kubernetes-using-helm-16e2c6bf70bf)** | *12 Dec 2024*|
 
 ---
 
