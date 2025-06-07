@@ -60,7 +60,7 @@ A quick learner, great team player, and always excited to explore new tools in c
 
 | 📰 Title | 🗓 Date | 📄 Snippet |
 |---------|--------|-----------|
-| **[Virtual Keyboard using computer vision](#)** | *12 Jan 2022, 07:58* | Isn't it cool to take input from a virtual keyboard rather t... |
+| **[Argocd-Gitops](https://medium.com/@adinathpatil2634/argocd-vs-traditional-ci-cd-the-future-of-kubernetes-deployment-0f0fcded722f)** | *12 Jan 2022, 07:58* | Isn't it cool to take input from a virtual keyboard rather t... |
 | **[Deep Dive In K-Means Clustering](#)** | *19 Jul 2021, 14:38* | As we all know it is one of the most commonly used unsupervi... |
 | **[Javascript more than just a language](#)** | *25 Jun 2021, 08:10* | Why JS is not only used for UI but also for backend, testing... |
 
