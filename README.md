@@ -67,8 +67,8 @@ A quick learner, great team player, and always excited to explore new tools in c
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipatil&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adipatil&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adyapatil&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adyapatil&layout=compact&theme=radical)
 
 ---
 
