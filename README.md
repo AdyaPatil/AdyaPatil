@@ -15,19 +15,6 @@
 
 ---
 
-## 🧠 My Technologies
-
-<table>
-  <tr>
-    <td><img src="./devops.png" height="100"></td>
-    <td><img src="./mern.png" height="100"></td>
-    <td><img src="./ai.png" height="100"></td>
-    <td><img src="./cloud.png" height="100"></td>
-  </tr>
-</table>
-
----
-
 ## 🛠 Technical Tools
 
 <p>
