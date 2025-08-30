@@ -1,19 +1,17 @@
-# Hi {coders}! 👋, I am Adinath Patil 🧑‍💻
+<h1 align="center">
+  Hi👋 {Coders}, I'm Adinath Patil
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-![coder](./coding-freak.gif)
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1F75FE&center=true&width=600&lines=Full+Stack+Developer+%7C+Cloud+Enthusiast;React+%7C+Node.js+%7C+FastAPI;Building+Scalable+and+Reliable+Systems" alt="Typing SVG" />
+</h3>
 
 
----
-
-## 🚀 About Me
-
-I’m **Adinath Patil**, a DevOps + React Developer passionate about scalable infrastructure and intuitive UI/UX.  
-A quick learner, great team player, and always excited to explore new tools in cloud and frontend dev.
-
-💡 I’m currently working with **AWS, Docker, Jenkins, FastAPI, MongoDB**, and **React.js**
-
-📈 GitHub Profile Views:  
-![Profile views](https://komarev.com/ghpvc/?username=adipatil&color=blue)
+<p align="center">
+  Welcome to my GitHub! I'm passionate about building efficient, scalable, and reliable systems.<br>
+  I’m currently sharpening my skills in cloud technologies, backend development, and DevOps practices.
+</p>
 
 ---
 
